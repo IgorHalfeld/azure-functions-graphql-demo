@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "apollo-server-azure-functions": "^2.6.1",
+    "graphql": "^14.3.1",
+    "graphql-tools": "^4.0.4"
+  }
+}

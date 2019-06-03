@@ -1,0 +1,6 @@
+{
+  getTopHeadlines {
+    status,
+    totalResults,
+  }
+}
