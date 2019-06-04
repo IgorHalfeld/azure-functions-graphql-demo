@@ -49,6 +49,4 @@ const server = new ApolloServer({
   resolvers,
 });
 
-module.exports = server.createHandler({
-  cors: true,
-});
+module.exports = server.createHandler();
